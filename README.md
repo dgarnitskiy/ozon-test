@@ -1,3 +1,3 @@
 ## 🚀 Demo
 
-**Live preview:** [https://username.github.io/repo-name](https://username.github.io/repo-name)
+**Live preview:** [https://dgarnitskiy.github.io](https://dgarnitskiy.github.io)
